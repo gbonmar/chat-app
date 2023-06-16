@@ -1,6 +1,18 @@
 Chat app
 
-Developing Chat App using a JS framework and NodeJS.
+Developing Chat App using a JavaScript and NodeJS.
+Requirements checklist:
+✓ Create a simple chat app
+✓ Essential CRUD operations
+✓ Events and activities should be in real time(eg. Notifications, chats & etc)
+
+Components must have
+Login and account functionality - Only nickname, without log in
+✓ Contact list
+✓ Chat history
+✓ Chat composer
+✓ Group Chat
+
 
 Node installation for windows
 1. Just go to [Node.js](https://nodejs.org/en) and download the installer.
