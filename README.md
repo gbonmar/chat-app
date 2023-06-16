@@ -4,6 +4,7 @@ Developing Chat App using a ExpressJS & Socket.io and NodeJS.
 Requirements checklist:
 ✓ Create a simple chat app
 ✓ Essential CRUD operations
+✓ Have a client and a server module
 ✓ Events and activities should be in real time(eg. Notifications, chats & etc)
 
 Components must have
@@ -13,6 +14,7 @@ Login and account functionality - Only nickname, without log in
 ✓ Chat composer
 ✓ Group Chat
 
+---
 
 Node installation for windows
 1. Just go to [Node.js](https://nodejs.org/en) and download the installer.
