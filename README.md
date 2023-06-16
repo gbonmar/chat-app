@@ -16,8 +16,6 @@ $ npm install npm -g
 You can download the project as archive or clone
 $ git clone https://github.com/gbonmar/chat-app.git (projectname)
 
----
-
 Go to the root directory and install npm there too. You can  go to the folder and right click, choose Git Bash here or use the following command for cloned--
 $ cd (projectname)
 $ npm install
