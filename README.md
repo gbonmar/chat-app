@@ -4,7 +4,7 @@ Developing Chat App using a JS framework and NodeJS.
 
 Node installation for windows
 1. Just go to [Node.js](https://nodejs.org/en) and download the installer.
-2. Download [Git](https://git-scm.com/) for later.
+2. Download [Git](https://git-scm.com/) for later or use cmd(run in admin).
 
 ---
 
