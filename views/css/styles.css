@@ -4,7 +4,7 @@
 
 body {
     background: #020A1B;
-    color: #ffffff;
+    color: #000;
     font-family: 'Merriweather', sans-serif;
 }
 
@@ -46,9 +46,4 @@ audio {
 div.caption: {
     float: left;
     clear: both;
-}
-
-.container {
-    background-color: #8d8d8d;
-    padding: 20px;
 }
