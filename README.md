@@ -1,6 +1,6 @@
 Chat app
 
-Developing Chat App using a ExpressJS and NodeJS.
+Developing Chat App using a ExpressJS & Socket.io and NodeJS.
 Requirements checklist:
 ✓ Create a simple chat app
 ✓ Essential CRUD operations
