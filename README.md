@@ -15,6 +15,10 @@ c. Login and account functionality - Only nickname, without log in
 4. ✓ Group Chat
 
 ---
+If you dont have express and socket.io install yet, install it using this command:
+$ npm install express
+$ npm install  socket.io
+---
 
 Node installation for windows
 1. Just go to [Node.js](https://nodejs.org/en) and download the installer.
